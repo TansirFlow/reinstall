@@ -2,8 +2,8 @@
 mode con cp select=437 >nul
 setlocal EnableDelayedExpansion
 
-set confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-set confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
+set confhome=https://raw.githubusercontent.com/TansirFlow/reinstall/main
+set confhome_cn=https://jihulab.com/TansirFlow/reinstall/-/raw/main
 rem set confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 rem 65001 代码页会乱码
