@@ -115,7 +115,7 @@ certutil -urlcache -f -split https://raw.githubusercontent.com/TansirFlow/reinst
 国内服务器：
 
 ```batch
-certutil -urlcache -f -split https://jihulab.com/TansirFlow/reinstall/-/raw/main/reinstall.bat
+certutil -urlcache -f -split https://github.030713.xyz/TansirFlow/reinstall/main/reinstall.bat
 ```
 
 ## 使用
