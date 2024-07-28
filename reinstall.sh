@@ -2,8 +2,8 @@
 # shellcheck disable=SC2086
 
 set -eE
-confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
+confhome=https://raw.githubusercontent.com/TansirFlow/reinstall/main
+confhome_cn=https://github.030713.xyz/TansirFlow/reinstall/main
 # confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 # https://www.gnu.org/software/gettext/manual/html_node/The-LANGUAGE-variable.html
