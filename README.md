@@ -109,13 +109,13 @@ curl -O https://jihulab.com/bin456789/reinstall/-/raw/main/reinstall.sh
 国外服务器：
 
 ```batch
-certutil -urlcache -f -split https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://raw.githubusercontent.com/TansirFlow/reinstall/main/reinstall.bat
 ```
 
 国内服务器：
 
 ```batch
-certutil -urlcache -f -split https://jihulab.com/bin456789/reinstall/-/raw/main/reinstall.bat
+certutil -urlcache -f -split https://jihulab.com/TansirFlow/reinstall/-/raw/main/reinstall.bat
 ```
 
 ## 使用
